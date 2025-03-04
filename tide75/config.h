@@ -1,1 +1,2 @@
-// This file intentionally left blank
+// fix chatter
+#define DEBOUNCE 7
